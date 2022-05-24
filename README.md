@@ -13,7 +13,7 @@ Sample functions how to deal with it already exist in the code below.
 
 What should be taken into account:
 
-- You can use any tools and any libraries
+- You can use any tools and any libraries (even Google)
 - You can use any architecture
 - You can use Swift
 - Your solution should support later replacement local JSON with network results
